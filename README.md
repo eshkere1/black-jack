@@ -47,7 +47,7 @@ Black jack в телеграмме
 6. Создайте файл .env и добавьте ваш токен Telegram Bot API:
     
     ```
-    BOT_TOKEN=ваш_токен
+    TELEGRAM_KEY="ваш_токен"
     ```
     Для того чтобы получить телеграмм токен вам нужно обратится к [BotFather](https://telegram.me/BotFather) в телеграмм
 
